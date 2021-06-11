@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&family=Rubik:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&family=Poppins:wght@300;400;500;700family=Rubik:wght@300;400;500;700&display=swap");
 * {
   box-sizing: border-box;
 }
@@ -103,7 +103,7 @@ input {
 .icon i.fas,
 .icon i.far {
   font-size: 28px;
-  color: rgb(94, 82, 255);
+  color: rgb(53, 174, 255);
 }
 .testimonials {
   background-color: #eee;
@@ -114,9 +114,6 @@ input {
   font-size: 18px;
 }
 .testimonial-item {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center; */
   text-align: center;
   padding: 10px 0;
   margin-bottom: 20px;
@@ -215,7 +212,7 @@ footer p {
   }
   .icon i.fas,
   .icon i.far {
-    font-size: 36px;
+    font-size: 42px;
   }
   .testimonials {
     padding: 20px 0;
