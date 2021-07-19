@@ -107,6 +107,7 @@ input {
 }
 .testimonials {
   background-color: #eee;
+  padding-top: 20px;
 }
 .testimonials h2 {
   text-align: center;
@@ -215,7 +216,7 @@ footer p {
     font-size: 42px;
   }
   .testimonials {
-    padding: 20px 0;
+    padding: 30px 0 20px;
   }
   .testimonial-item {
     border-bottom: none;
